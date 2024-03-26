@@ -1,0 +1,8 @@
+.logo__image {
+  display: flex;
+  justify-content: center;
+  padding-top: 34px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 90px;
+}
