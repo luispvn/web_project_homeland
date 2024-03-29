@@ -36,7 +36,6 @@
   line-height: 34px;
   text-align: left;
   max-width: 722px;
-
   margin: 0 auto 0;
   grid-area: quote;
 }
@@ -48,7 +47,6 @@
   line-height: 34px;
   text-align: right;
   max-width: 722px;
-
   margin: 0;
   grid-area: author;
   margin-top: -24px;
