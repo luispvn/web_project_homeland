@@ -22,11 +22,11 @@
   grid-template-columns: 722px 295px;
   grid-template-rows: auto;
   grid-template-areas:
-    "quote      ."
-    "author     ."
+    "quote       ."
+    "author      ."
     "description .";
   justify-content: center;
-  margin: auto;
+  margin: 0 auto 92px;
 }
 
 .intro__quote {
@@ -79,6 +79,7 @@
       "quote"
       "author"
       "description";
+    margin-bottom: 64px;
   }
 
   .intro__quote {
@@ -109,6 +110,7 @@
       "quote"
       "author"
       "description";
+    margin-bottom: 38px;
   }
 
   .intro__quote {
