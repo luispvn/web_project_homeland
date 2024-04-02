@@ -89,6 +89,7 @@
     width: 1184px;
     height: 746px;
     margin: auto;
+    margin-left: -208px;
   }
 
   .cover__text {
