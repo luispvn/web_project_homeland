@@ -88,7 +88,7 @@
   .cover__background-image {
     width: 1184px;
     height: 746px;
-    margin: auto auto auto -208px;
+    margin-left: -208px;
   }
 
   .cover__text {
