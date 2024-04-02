@@ -55,6 +55,9 @@
   font-weight: 400;
   margin: 0;
   text-align: center;
+}
+
+.cover__subtitle-three {
   margin-bottom: 32px;
 }
 
@@ -124,6 +127,9 @@
   .cover__subtitle {
     font-size: 14px;
     line-height: 16px;
+  }
+
+  .cover__subtitle-three {
     margin-bottom: 16px;
   }
 

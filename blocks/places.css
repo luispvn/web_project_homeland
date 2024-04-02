@@ -85,23 +85,23 @@
   font-size: 18px;
 }
 
-.places__text1 {
+.places__text-one {
   margin: 48px 0 0 0;
 }
 
-.places__text2 {
+.places__text-two {
   margin: 25px 0 0 0;
 }
 
-.places__text2-gales {
+.places__text-two-gales {
   margin: 56px 0 0 0;
 }
 
-.places__text2-berea {
+.places__text-two-berea {
   margin: 17px 0 0 0;
 }
 
-.places__text3 {
+.places__text-three {
   margin: 25px 0 0 0;
 }
 
@@ -141,27 +141,27 @@
     max-width: 352px;
   }
 
-  .places__text1 {
+  .places__text-one {
     margin: 46px 0 0 0;
   }
 
-  .places__text2 {
+  .places__text-two {
     margin: 14px 0 0 0;
   }
 
-  .places__text2-gales {
+  .places__text-two-gales {
     margin: 25px 0 0 0;
   }
 
-  .places__text2-berea {
+  .places__text-two-berea {
     margin: 20px 0 0 0;
   }
 
-  .places__text2-burundi {
+  .places__text-two-burundi {
     margin: 11px 0 0 0;
   }
 
-  .places__text3 {
+  .places__text-three {
     margin: 11px 0 0 0;
   }
 }
@@ -216,27 +216,27 @@
     grid-area: text;
   }
 
-  .places__text1 {
+  .places__text-one {
     margin: 0;
   }
 
-  .places__text2 {
+  .places__text-two {
     margin: 7px 0 0 0;
   }
 
-  .places__text2-gales {
+  .places__text-two-gales {
     margin: 10px 0 0 0;
   }
 
-  .places__text2-berea {
+  .places__text-two-berea {
     margin: 0;
   }
 
-  .places__text2-burundi {
+  .places__text-two-burundi {
     margin: 25px 0 0 0;
   }
 
-  .places__text3 {
+  .places__text-three {
     margin: 25px 0 0 0;
   }
 
