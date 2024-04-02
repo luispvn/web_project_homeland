@@ -68,6 +68,10 @@
   margin: 0 auto 0 auto;
 }
 
+.cover__link {
+  margin: 0 auto;
+}
+
 .cover__button:hover {
   cursor: pointer;
   background-color: #0063d2;

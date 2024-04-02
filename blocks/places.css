@@ -247,4 +247,8 @@
     font-size: 14px;
     margin: 8px auto 0;
   }
+
+  .places__link {
+    margin: 0 auto;
+  }
 }
